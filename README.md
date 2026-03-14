@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ефимов Никита
+**Junior-исследователь** | *Python, C, C++
 
-<!--
-**danteker2/danteker2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я занимаюсь поиском и развитием свох навыков в програмировании (фронтенд/бэкэнд/базы данных).
 
-Here are some ideas to get you started:
+### Стек технологий
+*   **Backend:** Pythonб C, C++
+*   **Frontend:** HTML, CSS
+*   **Базы данных:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты
+*   📧 Email: nikita.efimov2004@yandex.ru
+*   🔗 [GitHub] (https://github.com/danteker2)
